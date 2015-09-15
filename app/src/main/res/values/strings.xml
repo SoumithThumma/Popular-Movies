@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="share">Share Trailer</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string-array name="spinner">
+        <item>Popularity</item>
+        <item>User Rating&#160;</item>
+        <item>Favorites</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+</resources>
